@@ -378,10 +378,6 @@ blockquote:before {
     font-size: 500%;
 }
 
-blockquote:after {
-    content: "\201D";
-}
-
 cite {
     display: block;
     font-size: 90%;
